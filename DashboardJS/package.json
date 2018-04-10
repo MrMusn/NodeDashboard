@@ -1,0 +1,16 @@
+{
+  "name": "dashboardjs",
+  "version": "1.0.0",
+  "description": "Dashboard system in JS for Spillehallen.dk",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "CGDAE",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "formidable": "^1.2.1"
+  }
+}
